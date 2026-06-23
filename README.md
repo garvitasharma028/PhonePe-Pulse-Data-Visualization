@@ -32,5 +32,3 @@ users, top transactions, and top users across
 - Highest YoY growth: 2019 (2.9x over 2018)
 - Registered users grew consistently every quarter
 
-## Dashboard Preview
-[Insert screenshot of Page 1 and Page 2 here]
