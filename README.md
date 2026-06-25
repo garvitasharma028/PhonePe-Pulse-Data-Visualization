@@ -32,7 +32,7 @@ users, top transactions, and top users across
 - Highest YoY growth: 2019 (2.9x over 2018)
 - Registered users grew consistently every quarter
 
-## Dashbord Screenshot
+## Dashboard Screenshot
 
 <img width="875" height="493" alt="Image" src="https://github.com/user-attachments/assets/aa509d30-66cb-4736-90e4-1e7bebb29280" />
 <img width="875" height="490" alt="Image" src="https://github.com/user-attachments/assets/12b9efcd-c749-40ea-9df7-8c54c3ba34ea" />
